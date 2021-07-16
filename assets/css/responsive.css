@@ -1,0 +1,395 @@
+@media screen and (max-width: 1920px) {
+#header{padding-top: 16px;}
+.logo{width: 140px;}
+.menu > ul > li{margin-right: 25px; padding-bottom: 32px;}
+.menu li a{font-size: 14px;}
+.search-box input[type='text']{width: 200px;font-size: 14px;}
+.header-right{padding: 16px 0 0;}
+.content-area {padding: 86px 0 0;}
+.menu .sub-menu li a{font-size: 14px;}
+.commom-banner h1 em{font-size: 22px;}
+.commom-banner h1 strong{font-size: 40px;}
+
+.important-text {font-size: 18px;}
+p{margin-bottom: 15px; font-size: 14px;}
+
+a.button {font-size: 16px;}
+a.button,a.button.next-btn {padding: 12px 32px;}
+
+h2.diff-heading{font-size: 70px;}
+
+.contact-page .important-text{    font-size: 22px;}
+.contact-page .two-column-layout .col{padding: 0 15px;}
+.main-container {
+        padding-bottom: 10px;
+}
+
+.team-detail h2.team-heading{font-size: 53px; color: #444;}
+
+.what-we-do-page .main-banner h1{font-size: 70px;}
+.what-we-do-page .main-banner strong{font-size: 40px;}
+.what-we-do-page p{font-size: 20px;}
+.featured-services li .service-icon{width: 200px; height: 200px;}
+.featured-services li strong{font-size: 29px; line-height: 1.2;}
+
+.service-block h2{font-size: 50px;}
+.footer-contact-details{width: 20%;}
+
+.three-column-layout h3,.four-column-layout h3 {
+    font-size: 32px;}
+
+    .nav-icons{ text-align: center; margin-left: -15px; margin-right: -15px;}
+    .nav-icons li{ display: inline-block; padding: 15px; width: 24%;}
+
+.homepage .banner-bg{ background-position: left top;}
+
+.homepage .main-banner >img{height: 220px;}
+.homepage .main-banner h1{font-size: 25px;}
+.homepage .main-banner h1 strong{font-size: 34px;}
+.about-axia h2, .for-you h2{font-size: 40px;}
+.about-axia p, .for-you p {font-size: 20px;}
+    .slides > li .left-side .first-block strong {font-size: 34px;}
+    .slides > li .left-side .first-block span {font-size: 16px;}
+    .slides > li .right-side li {font-size: 14px;}
+    .slides > li .left-side .second-block span {font-size: 16px;}
+    .nav-icons li a {font-size: 28px;}
+
+
+}
+
+@media screen and (max-width: 1199px) {
+  #header{padding: 16px 20px 0;}
+  .logo{width: 130px;}
+  .menu{padding-right: 0;}
+  .menu > ul > li{margin-right: 18px; padding-bottom: 32px;}
+  .menu li a{font-size: 14px;}
+  .search-box input[type='text']{width: 150px; font-size: 12px;}
+  .header-right {padding: 12px 0 0;}
+  .content-area {padding: 84px 0 0;}
+  .menu .sub-menu li a{font-size: 14px;}
+  h2.diff-heading{font-size: 60px;}
+  .four-column-layout .col{padding: 0 15px;}
+  .four-column-layout h3{font-size: 30px;}
+
+  .three-column-layout .button{ width: 160px; }
+  .three-column-layout h3 {
+    font-size: 30px;
+}
+.three-column-layout .col {
+    padding: 0 15px;
+}
+
+
+.what-we-do-page .main-banner h1{font-size: 60px;}
+.what-we-do-page .main-banner strong{font-size: 30px;}
+.what-we-do-page p{font-size: 18px;}
+.featured-services li{padding: 130px 15px 70px}
+.featured-services li .service-icon{width: 150px; height: 150px;}
+.featured-services li .service-icon img{ height: 90px;}
+
+.footer-contact-form{ width: 65%;}
+.footer-contact-details{width: 30%;}
+
+.page-logo {
+    text-align: center;
+    height: 80px;
+}
+
+.page-logo img{max-height: 80px;}
+
+.about-axia h2, .for-you h2 {
+    font-size: 28px;
+}
+
+.about-axia p, .for-you p {
+    font-size: 16px;
+}
+
+.slides > li .left-side .first-block,.slides > li .left-side .second-block{margin-bottom: 40px;}
+.slides > li .left-side .first-block strong {
+    font-size: 28px;
+}
+.slides > li .left-side .first-block span,.slides > li .left-side .first-block span {
+    font-size: 14px;
+}
+
+
+}
+
+@media screen and (max-width: 991px) {
+  #header{padding-top: 16px;}
+  .logo{width: 120px;}
+  .menu > ul > li{margin-right: 15px; padding-bottom: 32px;}
+  .menu li a{font-size: 12px;}
+  .search-box input[type='text']{font-size: 12px; width: 120px;}
+  .header-right{padding: 9px 0 0;}
+  .content-area {padding: 80px 0 0;}
+  .menu .sub-menu li a{font-size: 14px;}
+  .commom-banner{min-height: 480px;}
+  .commom-banner h1 strong {font-size: 28px;}
+
+.two-column-layout .col{width:100%; text-align: center;}
+.footer-contact-form > .two-column-layout .col{ padding-bottom: 30px;}
+.footer-contact-form > .two-column-layout .col:last-child{ padding-bottom: 0px;}
+.two-column-layout {padding-bottom: 20px;}
+.four-column-layout .col,.three-column-layout .col{width: 50%; padding: 0 15px 40px;}
+.four-column-layout .col:nth-child(odd),.three-column-layout .col:nth-child(odd){ clear: left;}
+.four-column-layout .col:nth-child(even),.three-column-layout .col:nth-child(even){ clear: right;}
+
+
+.what-we-do-page .main-banner h1{font-size: 42px;}
+.what-we-do-page .main-banner strong{font-size: 24px;}
+.what-we-do-page p{font-size: 14px;}
+.featured-services li{padding: 48px 15px 70px}
+.featured-services li .service-icon{width: 100px; height: 100px;}
+.featured-services li .service-icon img{ height: 60px;}
+.featured-services li strong {font-size: 20px;}
+
+.service-block h2 {
+    font-size: 24px;
+}
+.service-block .block-icon{ height: 100px; margin-bottom: 30px;}
+.service-block .block-icon img{max-height: 100%;}
+.footer-contact-form{ width: 60%;}
+.footer-contact-details{width: 35%;}
+
+form .two-column-layout .col:first-child{    margin-bottom: 30px;}
+
+.contact-block{padding-bottom: 30px;}
+.contact-page .two-column-layout .col.col-right{padding-top: 30px;}
+.contact-page .two-column-layout .col.col-right .col{width: 50%; float: left;}
+.contact-page .two-column-layout .col.col-right .blocks{min-height: 100px;}
+.select-list .two-column-layout .col{float: left; width: 50%;}
+.nav-icons li{width: auto;}
+.slides > li .slide-img-detail {padding: 10px 0 0; width: 50%;}
+  .slides > li .left-side .first-block strong {
+    font-size: 23px;
+}
+.slides > li .right-side li {
+    font-size: 12px;
+}
+.slides > li .left-side .second-block span {
+    font-size: 12px;
+}
+
+.slides > li .left-side .first-block, .slides > li .left-side .second-block {
+    margin-bottom: 10px;
+}
+
+.nav-icons li {
+    width: 33%;
+}
+
+
+}
+
+@media screen and (max-width: 767px) {
+
+  .mobile-menu {
+      display: block;
+      width: 38px;
+      height: 30px;
+      float: right;
+      background: none;
+      border: 0;
+  }
+
+  .mobile-menu span{height: 4px; width: 100%; background: white; display: block; margin: 2px 0; border-radius: 2px;}
+  .mobile-menu span:first-child,.mobile-menu span:last-child{ position: relative;
+    transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+  }
+  .mobile-menu span:first-child{}
+
+  .menu > ul > li{padding-bottom: 0; border-bottom: solid 1px #2b2a28;  border-top: solid 1px #51504e;}
+  .menu > ul > li a{ padding: 8px; display: block;}
+
+.menu > ul > li,.menu,.header-right,.search-box,.search-box input[type='text'],
+.footer-contact-details,.footer-contact-form
+{ float: none; width: 100%;}
+.menu > ul > li .sub-menu {position: static; width: 100%;}
+.header-right{padding:  10px 0 20px; margin: 0 0 20px !important;  background: #3e3d3b; padding: 20px; float: left; display: none; border-radius: 4px;}
+
+.menu .sub-menu::after{display: none;}
+li.menu-item-has-children >a{margin-right: 40px;}
+li.menu-item-has-children > span{
+display: block;
+position: absolute;
+height:  32px;
+width: 32px;
+right: 0;
+top: 0;
+z-index: 50;
+text-align: center;
+line-height: 30px;
+font-size: 22px;
+background: #2b2a28;
+color: white;
+font-weight: bold;
+}
+
+.commom-banner{ padding: 150px 20px 40px; width: 100%; min-height: 296px;}
+.commom-banner h1 em { font-size: 16px; }
+.commom-banner h1 strong{ font-size: 22px; }
+
+.content-area { padding: 70px 0 0; }
+.two-column-layout .col { padding: 0; }
+
+.button-set { width: 270px; }
+
+.download-block{ text-align: center; }
+.alignleft,.download-block a.download-link { display: inline-block; margin: 0 0 10px; float: none; }
+.alignleft{ display: block; }
+
+.main-container.who-we-work-page { padding-top: 60px; }
+
+.footer-contact-details{text-align: center;}
+.what-we-do-page .main-banner h1{font-size: 32px;}
+.what-we-do-page .main-banner strong{font-size: 18px;}
+.featured-services{display: none;}
+.what-we-do-page .main-banner::after {
+    bottom: -15px;
+}
+.contact-heading h2{    font-size: 28px;    padding-top: 30px;}
+.contact-heading{padding-bottom: 0px;}
+#footer .container{font-size: 12px;}
+
+h2.diff-heading{font-size: 30px;}
+.important-text {
+    font-size: 16px;
+}
+
+.three-column-layout h3 {
+    font-size: 20px;
+}
+
+.contact-page .important-text {
+    font-size: 18px;
+}
+
+.service-block h2 {
+    font-size: 20px;
+}
+.four-column-layout h3 {
+    font-size: 20px;
+}
+
+h2{    font-size: 20px;
+    margin-top: 30px;}
+
+    .team-detail,.directory-detail{padding: 0 0 40px;}
+    .team-detail h2.team-heading{font-size: 32px;}
+
+    .homepage .main-banner >img {
+        height: 150px;
+    }
+
+    .homepage .main-banner h1 strong {
+    font-size: 30px;
+    line-height: 1.1;
+}
+
+.about-axia {
+    padding-top: 0;
+}
+
+.testimonial{padding: 0 40px;}
+.testimonial::before,.testimonial::after{transform: scale(0.5);}
+.testimonial::before{left: -20px;}
+.testimonial::after{right: -20px;}
+
+.slides > li .slide-img{position: static; height: 300px; width: auto;}
+.slides > li .slide-img-detail{ width: auto; float: none; overflow: hidden; padding: 30px 20px;}
+
+.nav-icons li {
+    width: 45%;
+}
+
+}
+
+@media screen and (min-width: 768px){
+  .menu > ul > li:hover .sub-menu { display: block; }
+
+.featured-services li .service-icon {
+     background: rgba(255, 255, 255, 0.1);
+     -webkit-transition: all 0.2s, color 0.2s;
+     -moz-transition: all 0.2s, color 0.2s;
+     transition: all 0.2s, color 0.2s;
+     position: relative;
+  }
+  .featured-services li .service-icon:after {
+
+    pointer-events: none;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+        content: '';
+        -webkit-box-sizing: content-box;
+        -moz-box-sizing: content-box;
+        box-sizing: content-box;
+
+     top: -7px;
+     left: -7px;
+     padding: 7px;
+     box-shadow: 0 0 0 4px #b36f00;
+     -webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
+     -webkit-transform: scale(.8);
+     -moz-transition: -moz-transform 0.2s, opacity 0.2s;
+     -moz-transform: scale(.8);
+     -ms-transform: scale(.8);
+     transition: transform 0.2s, opacity 0.2s;
+     transform: scale(.8);
+     opacity: 0;
+  }
+  /* Effect 1a */
+  .featured-services li .service-icon:hover {
+     background: rgba(255, 255, 255, 1);
+     color: #b36f00;
+  }
+  .featured-services li .service-icon:hover:after {
+     -webkit-transform: scale(1);
+     -moz-transform: scale(1);
+     -ms-transform: scale(1);
+     transform: scale(1);
+     opacity: 1;
+  }
+
+}
+
+
+@media screen and (max-width: 640px) {
+.four-column-layout .col,.three-column-layout .col{width: 100%; float: none; padding-bottom: 30px; text-align: center;}
+
+.contact-page .two-column-layout .col.col-right .col{width: 100%; float: none;}
+.contact-page .two-column-layout .col.col-right .blocks{min-height: 0;}
+.select-list .two-column-layout .col{float: none; width: 100%; text-align: left;}
+.contact-form .two-column-layout .col{padding-left: 0; padding-right: .0;}
+
+.homepage .main-banner h1 {
+    font-size: 20px;
+}
+.homepage .main-banner h1 strong{letter-spacing: 2px;font-size: 24px;}
+.homepage .main-banner >img {
+    height: 115px;
+}
+.about-axia h2, .for-you h2 {
+    font-size: 22px;
+}
+.about-axia, .for-you{padding: 35px 0;}
+.about-axia p, .for-you p {
+    font-size: 14px;
+}
+.testimonial{padding: 0;}
+.testimonial::before,.testimonial::after{ display: none;}
+.nav-icons li {
+    width: auto;
+}
+.slides > li .left-side, .slides > li .right-side{float: none; width: auto;}
+
+.slides > li .left-side .first-block, .slides > li .left-side .second-block{margin-bottom: 30px;}
+.slides > li .right-side{margin-left: 20px;}
+.slides > li .slide-img{height: 200px;}
+
+}
