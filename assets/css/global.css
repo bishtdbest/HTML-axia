@@ -59,7 +59,7 @@ img{ max-width: 100%; }
 .clearfix,.form-row { display: block; }
 /* close commented backslash hack */
 
-body{ font: normal 15px/1.4  'IBM Plex Sans', sans-serif; color: black; font-display: swap;}
+body{ font: normal 15px/1.4  'IBM Plex Sans', sans-serif; color: black;}
 
 .wrapper{ margin: 0 auto;}
 .container{max-width: 1500px; margin: 0 auto; width: 90%;}
